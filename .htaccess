@@ -1,0 +1,9 @@
+Options -MultiViews 
+<IfModule mod_rewrite.c>
+# Mod Rewrite
+RewriteEngine On
+RewriteRule ^([^/]*)/$ bank.php?bank_name=$1 [L]
+RewriteRule ^([^/]*)/([^/]*)/$ state.php?bank_name=$1&state_name=$2 [L]
+RewriteRule ^([^/]*)/([^/]*)/([^/]*)/$ branch.php?bank_name=$1&state_name=$2&city_name=$3 [L]
+RewriteRule ^([^/]*)/([^/]*)/([^/]*)/([^/]*)/$ branch.php?bank_name=$1&state_name=$2&city_name=$3&branch_name=4$ [L]
+</IfModule>

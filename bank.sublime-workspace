@@ -1,0 +1,813 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"date",
+				"date_format"
+			],
+			[
+				"font-ei",
+				"font-weight"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"len",
+				"length	Function"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"getele",
+				"getElementById(id)	Element"
+			],
+			[
+				"require",
+				"require_once"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"replace",
+				"preg_replace"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"get_the_c",
+				"get_the_content"
+			],
+			[
+				"preg_",
+				"preg_match"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"file_size",
+				"file_size_limitation"
+			],
+			[
+				"missing",
+				"missing_cv"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"session_",
+				"session_destroy"
+			],
+			[
+				"mysqli_num",
+				"mysqli_num_rows"
+			],
+			[
+				"mysqli_fetc",
+				"mysqli_fetch_array"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_array"
+			],
+			[
+				"the_",
+				"the_category"
+			],
+			[
+				"attc",
+				"attachments"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"the_ti",
+				"the_title"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"toggle",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_style"
+			],
+			[
+				"get_ter",
+				"get_terms"
+			],
+			[
+				"get_term",
+				"get_terms"
+			],
+			[
+				"wp_rese",
+				"wp_reset_query"
+			],
+			[
+				"plugins_",
+				"plugins_url"
+			],
+			[
+				"wp_enqu",
+				"wp_enqueue_script"
+			],
+			[
+				"get_template",
+				"get_template_part"
+			],
+			[
+				"the_date",
+				"the_modified_date"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"hea",
+				"header	<header>"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pot",
+				"position"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"get_templa",
+				"get_template_part"
+			],
+			[
+				"the_author",
+				"the_author_link"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"cus",
+				"cursor"
+			],
+			[
+				"eas",
+				"ease-out"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"get_tem",
+				"get_template_directory_uri"
+			],
+			[
+				"get_temp",
+				"get_template_directory"
+			],
+			[
+				"font-wi",
+				"font-weight"
+			],
+			[
+				"border-w",
+				"border-width"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"the_perma",
+				"get_the_permalink"
+			],
+			[
+				"marq",
+				"marquee"
+			],
+			[
+				"plugin",
+				"plugins_url"
+			],
+			[
+				"single",
+				"single_cat_title"
+			],
+			[
+				"the_cate",
+				"the_category"
+			],
+			[
+				"You",
+				"You"
+			],
+			[
+				"wp_m",
+				"wp_mail"
+			],
+			[
+				"user_adult",
+				"user_adult_cost"
+			],
+			[
+				"posts",
+				"posts_per_page"
+			],
+			[
+				"have",
+				"have_posts"
+			],
+			[
+				"wp_reset",
+				"wp_reset_postdata"
+			],
+			[
+				"price",
+				"priceperperson"
+			],
+			[
+				"the",
+				"the_excerpt"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"P",
+				"placeholder	Attr"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"user_na",
+				"user_nationality"
+			],
+			[
+				"aj",
+				"ajax	$.ajax()"
+			],
+			[
+				"adult",
+				"adult_cost"
+			],
+			[
+				"tab",
+				"tabindex	Attr"
+			],
+			[
+				"child",
+				"children	.children()"
+			],
+			[
+				"na",
+				"nationality"
+			],
+			[
+				"pa",
+				"placeholder	Attr"
+			],
+			[
+				"col",
+				"colspan	Attr"
+			],
+			[
+				"total",
+				"total-cost"
+			],
+			[
+				"add_theme",
+				"add_theme_support"
+			],
+			[
+				"body",
+				"body_class"
+			],
+			[
+				"get_templ",
+				"get_template_part"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"search_f",
+				"get_search_form"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"textd",
+				"text-decoration"
+			],
+			[
+				"re",
+				"required	Attr"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"category",
+				"the_category"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"u",
+				"uppercase"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/appointment/inc/config.php",
+		"/C/Users/kill/Desktop/Devtools/index.html",
+		"/C/wamp/www/appointment/Login_Panel/inc/config.php",
+		"/C/Users/kill/Desktop/hello.cpp",
+		"/C/Users/kill/Desktop/Devtools/style.css",
+		"/C/gulp/gulpfile.js",
+		"/C/gulp/app/index.html",
+		"/C/wamp/www/wordpress/wp-content/themes/gulp-automation/gulpfile.js",
+		"/C/wamp/www/wordpress/wp-content/themes/gulp-automation/source/scss/color.scss",
+		"/C/wamp/www/wordpress/wp-content/themes/gulp-automation/package.json",
+		"/C/gulp/app/scss/style.scss",
+		"/C/gulp/app/css/style.css",
+		"/C/gulp/app/js/1.js",
+		"/C/gulp/app/js/3.js",
+		"/C/gulp/app/js/2.js",
+		"/C/Users/kill/Desktop/original.sql",
+		"/C/Users/kill/Desktop/eventPage.html",
+		"/C/wamp/www/cms/css/style.css",
+		"/C/wamp/www/cms/header.php",
+		"/C/wamp/www/cms/bank.php",
+		"/C/wamp/www/cms/state.php",
+		"/C/wamp/www/cms/branch.php",
+		"/C/wamp/www/cms/menu.php",
+		"/H/Edcation Theme Documentation",
+		"/C/wamp/www/school/wp-content/themes/education/functions.php",
+		"/C/Users/kill/Desktop/index.html",
+		"/C/wamp/www/cms/ifsc.php",
+		"/C/wamp/www/wordpress/wp-content/plugins/bn-events/bn_events.php",
+		"/G/table.html",
+		"/C/wamp/www/wordpress/wp-content/themes/TheFox/single-event.php",
+		"/C/wamp/www/wordpress/wp-content/plugins/bn-events/css/events.css",
+		"/C/wamp/www/wordpress/wp-content/plugins/jobs/jobs.php",
+		"/C/wamp/www/wordpress/wp-content/plugins/jobs/css/job.css",
+		"/C/wamp/www/wordpress/wp-content/themes/TheFox/single-job.php",
+		"/C/wamp/www/cms/sidebar.php",
+		"/C/wamp/www/cms/index.php",
+		"/C/Users/kill/Desktop/swarnima/index.html",
+		"/C/wamp/www/cms/bankcontent.php",
+		"/C/wamp/www/cms/ifsccontent.php",
+		"/C/wamp/www/cms/footer.php",
+		"/C/wamp/www/cms/content.php",
+		"/C/wamp/www/cms/branchcontent.php",
+		"/C/wamp/www/cms/city.php",
+		"/C/wamp/www/cms/citycontent.php",
+		"/C/wamp/www/cms/statecontent.php",
+		"/C/wamp/www/cms/htaccess",
+		"/C/Users/kill/Desktop/table.html",
+		"/C/Users/kill/Desktop/table2.html",
+		"/C/wamp/www/wordpress/wp-content/themes/VisitIndia/single-tour.php",
+		"/C/wamp/www/wordpress/wp-content/themes/binarymantra/functions.php",
+		"/C/wamp/www/wordpress/wp-content/themes/binarynote-3/single-coupon.php",
+		"/C/wamp/www/wordpress/wp-content/plugins/bn-events/css/bootstrap.css",
+		"/C/Users/kill/Desktop/class2.cpp",
+		"/C/Users/kill/Desktop/class1.cpp",
+		"/C/Users/kill/Desktop/mysql-5.7.13-winx64/README",
+		"/C/wamp/www/easy/assets/ext/jquery-datatables/jquery.datatables.css",
+		"/C/Users/kill/Desktop/easyappointments-master/rsc/db/structure.sql",
+		"/C/Users/kill/Desktop/mysql-5.7.13-winx64/COPYING",
+		"/C/Users/kill/Desktop/easyappointments-master/.editorconfig",
+		"/C/wamp/www/easy/config.php",
+		"/C/wamp/www/easy/index.php",
+		"/C/Users/kill/Desktop/easyappointments-master/rsc/db/sample-data.sql",
+		"/C/wamp/www/easy/assets/sql/data.sql",
+		"/C/Users/kill/Desktop/job_portal.sql",
+		"/C/Users/kill/Desktop/student/META-INF/MANIFEST.MF",
+		"/C/Users/kill/Desktop/actual/META-INF/MANIFEST.MF",
+		"/C/Users/kill/Desktop/actual/dsn.mf",
+		"/C/Users/kill/Desktop/mohit_chaudhary.jks",
+		"/C/Users/kill/Desktop/student.queans.mba.mbaqueansstudent-2.apk",
+		"/C/Users/kill/Desktop/mrbs-1.5.0/auth_pam.pl",
+		"/C/Users/kill/Desktop/booked/plugins/Authentication/ActiveDirectory/ActiveDirectory.config.dist.php",
+		"/C/Users/kill/Desktop/booked/database_schema/create-user.sql",
+		"/C/Users/kill/Desktop/across/across/across.php",
+		"/C/wamp/www/wallpaper/wp-content/themes/wallpaper3/functions.php",
+		"/C/Users/kill/Desktop/across/across/appointment.inc",
+		"/C/Users/kill/Desktop/across/index.php",
+		"/C/Users/kill/Desktop/across/across/login.inc",
+		"/C/Users/kill/Desktop/across/across/initdb.sql",
+		"/C/wamp/www/wallpaper/wp-content/themes/wallpaper3/include/widgets.php",
+		"/C/Users/kill/Desktop/mohit/META-INF/MANIFEST.MF",
+		"/C/Users/kill/Desktop/Schedule/schedule.php",
+		"/C/Users/kill/Desktop/Schedule/schedule.inc.php",
+		"/C/Users/kill/Desktop/kishore.jks",
+		"/C/Users/kill/Desktop/production/dsn.mf",
+		"/C/Users/kill/Desktop/mohit/AndroidManifest.xml",
+		"/C/Users/kill/Desktop/production/AndroidManifest.xml",
+		"/C/Users/kill/.AndroidStudio2.1/config/options/keymap.xml",
+		"/C/Users/kill/Desktop/production/org/apache/harmony/awt/internal/nls/messages.properties",
+		"/C/Users/kill/Desktop/production/META-INF/CERT.SF",
+		"/C/Users/kill/Desktop/vvote_keystore.jks",
+		"/C/Users/kill/Desktop/APK/META-INF/MANIFEST.MF",
+		"/C/Users/kill/Desktop/APK/META-INF/CERT.SF",
+		"/C/Users/kill/Desktop/APK/dsn.mf",
+		"/C/Users/kill/.AndroidStudio2.1/config/options/security.xml",
+		"/C/Users/kill/Desktop/APK/META-INF/CERT.RSA",
+		"/C/Users/kill/.AndroidStudio2.1/config/user.token",
+		"/C/Users/kill/.AndroidStudio2.1/config/inspection/Default.xml",
+		"/C/Users/kill/Desktop/Vvote/31-05-2016/MbaQueAnsStudent/app/build/intermediates/res/merged/debug/values-uz-rUZ/values-uz-rUZ.xml",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/gradlew",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/build/intermediates/dex-cache/cache.xml",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/app/build.gradle",
+		"/C/Users/kill/Desktop/Vvote/31-05-2016/MbaQueAnsStudent/volleyLib/src/main/java/com/android/volley/toolbox/ByteArrayPool.java",
+		"/C/Users/kill/Desktop/Vvote/31-05-2016/MbaQueAnsStudent/app/build/generated/source/r/debug/student/queans/mba/mbaqueansstudent/Manifest.java",
+		"/C/Users/kill/Desktop/Vvote/31-05-2016/MbaQueAnsStudent/app/build/outputs/logs/manifest-merger-debug-report.txt",
+		"/C/Users/kill/Desktop/v3/Vvote/31-05-2016/MbaQueAnsStudent/build.gradle",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/gradle/wrapper/gradle-wrapper.properties",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/proguard.txt",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/app/src/main/java/utils/LruBitmapCache.java",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/build.gradle",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/gradle.properties",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/local.properties",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/MbaQueAnsStudent.iml.xml",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/settings.gradle",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/app/proguard-rules.pro",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/app/src/main/java/utils/GCM_Registration.java",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/.idea/workspace.xml",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/app/src/main/java/student/queans/mba/mbaqueansstudent/TrendingNowActivity.java",
+		"/C/Users/kill/Desktop/Vvote/31-05-2016/MbaQueAnsStudent/build.gradle",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/proguard.txt",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/app/build/generated/source/buildConfig/androidTest/debug/student/queans/mba/mbaqueansstudent/test/BuildConfig.java",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/volleyLib/build.gradle",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/mpandroidchartlibrary-2-2-4/build.gradle",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/app/app.iml.xml",
+		"/C/Users/kill/Desktop/v2/Vvote/31-05-2016/MbaQueAnsStudent/gradle/wrapper/gradle-wrapper.jar",
+		"/C/Users/kill/Desktop/Vvote/31-05-2016/MbaQueAnsStudent/.idea/gradle.xml",
+		"/C/Users/kill/Desktop/Vvote/31-05-2016/MbaQueAnsStudent/import-summary.txt",
+		"/C/Users/kill/Desktop/Vvote/31-05-2016/MbaQueAnsStudent/local.properties",
+		"/C/Users/kill/Desktop/Vvote/31-05-2016/MbaQueAnsStudent/MbaQueAnsStudent.iml"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci",
+			"COLLATE utf8mb4_unicode_ci",
+			"CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci",
+			"COLLATE utf8mb4_unicode_ci",
+			"DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci",
+			"green",
+			"Chv2CJKzeW+P4SBfxDce3CK2cG8=",
+			"l4wPPYunAqUs5TQYb14SXXQJQ+I=",
+			"FcRpdgFC9EJbGKuBIYcH9szfAn0=",
+			"vwXzKrF6LyKySPbiJ1D1h9MUd4U=",
+			"l4wPPYunAqUs5TQYb14SXXQJQ+I=",
+			"6rSm6kORk3gR7sN+Kxa8/fR2reU=\n",
+			"mohit",
+			"key",
+			"path",
+			"key",
+			"host",
+			"52",
+			"mystyle",
+			"']);",
+			"js",
+			"height",
+			"alumni",
+			"three",
+			"grid_3",
+			"grid_3\n",
+			";\n",
+			"box",
+			"‘slider’",
+			"custom-post",
+			".custom-post",
+			"custom-post",
+			"preview",
+			"red",
+			"frontbox",
+			"container",
+			"frontbox",
+			"features",
+			"footer1",
+			"page-links",
+			"widget",
+			"copy",
+			"img",
+			"body",
+			"access",
+			"alignleft",
+			"index.html",
+			"style.css",
+			"sla",
+			".widget h4",
+			"menucolor",
+			"img",
+			".widget",
+			"widget",
+			"strong",
+			"widget",
+			".widget",
+			".grid_4",
+			"widget",
+			"sidebar",
+			"body",
+			".widget",
+			"sidebar",
+			"alignleft",
+			"new_ex",
+			"feature-box",
+			"count-num",
+			"post_ma",
+			"upload_max",
+			"max",
+			"max_p",
+			"post size",
+			"max-",
+			"bx",
+			"password",
+			"	\n",
+			".home h2",
+			"comp",
+			"fail",
+			"widget",
+			"pagination",
+			"{ ",
+			"tour",
+			"submit",
+			"wrapper",
+			"wp_enqueue",
+			"		\n",
+			"GET",
+			"std",
+			"body",
+			"menucolor",
+			"widget",
+			"disable",
+			"moz",
+			"<?",
+			"coupon",
+			"alignone",
+			"binarynote",
+			".widget h4",
+			".comment-author",
+			"binarynote",
+			"error",
+			"#reply-title",
+			"h3 reply-title",
+			"respond input",
+			"#resposnd",
+			"sidebar",
+			"commentlist",
+			".commentlist",
+			".box",
+			".comment",
+			"li.comment",
+			"even",
+			".box",
+			"commentlist",
+			".commentlist",
+			".box",
+			"moretag",
+			"new_excerpt_more",
+			".box",
+			"widget",
+			"body",
+			"a:link",
+			"padding:5px 10px;",
+			".box",
+			"body",
+			"textarea",
+			"		\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"#2A9848",
+			"#31A950",
+			"job",
+			"grid_2",
+			"tour",
+			"Tour",
+			"rachit"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bank.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
